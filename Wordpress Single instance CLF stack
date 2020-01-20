@@ -1,3 +1,8 @@
+# wpcfForDPS
+Cloud formation script to build the WP website to host dharpara primary school site.
+
+
+
 AWSTemplateFormatVersion: '2010-09-09'
 Metadata: 
   License: Apache-2.0

@@ -12,7 +12,7 @@ Configure Stack options
 Review before provisioning stack
 Click Create stack
 
-After stack was successfully created, click on outputs option and Click on the website url. It contains a message about  older PHP version
+After stack was successfully created, click on outputs option and click on the website url. It contains a message about older PHP version
 To update the php, SSH into Ec2 server and enter the following script one after another: 
 
 

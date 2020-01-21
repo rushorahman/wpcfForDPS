@@ -34,6 +34,6 @@ chkconfig httpd on
 service httpd start
 
 
-After running the script, go back to Cloudformation and click on outputs and click on the link again, It will forward to a wordpress.com site to log in. Where user will be able to customize the website.  
+After running the script, go back to Cloudformation and click on outputs and click on the link again, It will forward to a wordpress.com site to log in, where user will be able to customize the website.  
 
 
